@@ -1,7 +1,7 @@
 package pl.javastart.task;
 
 public class Drink {
-    String drinkName;
+    String name;
     double price;
     boolean isAlcoholic;
     Ingredient ingredient1 = new Ingredient();
